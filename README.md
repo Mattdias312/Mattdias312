@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/forks/Mattdias312/Mattdias312?style=social)](https://github.com/Mattdias312)
 [![GitHub followers](https://img.shields.io/github/stars/Mattdias312/Mattdias312?style=social)](https://github.com/Mattdias312)
 
-Hey there! 👋 Welcome to my GitHub profile! I'm Matheus, a passionate developer and active member of the GitHub community. With a diverse range of projects and a focus on web development technologies, I strive to continuously learn and improve my coding skills. Let's dive deep into my GitHub journey!
+Olá! 👋 Bem-vindo ao meu perfil no GitHub! Sou Matheus, um desenvolvedor apaixonado e membro ativo da comunidade GitHub. Com uma gama diversificada de projetos e um foco em tecnologias de desenvolvimento web, busco continuamente aprender e aprimorar minhas habilidades de programação. Vamos mergulhar na minha jornada no GitHub!
 
 ## 🔧 Skills
 
@@ -14,35 +14,22 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Matheus, a passionate develope
 - Angular
 - Java
 
-## 🚀 GitHub Activity
-
-- Total Public Repositories: 25
-- Total Pull Requests: 42
-- Total Commits: 321
-- Contributions: 3
-- Followers: 2
-- Following: 3
-
 ## 🌟 Most Starred Repository
 
-Check out my most starred project on GitHub!
-[Mattdias312 Repository](https://github.com/Mattdias312/Mattdias312)
+Dê uma olhada no meu projeto mais estrelado no GitHub!
+[Mattdias312 Repository](https://github.com/mdoisp/FoodClubServer)
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mattdias312)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattdias312)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mattdias312)](https://github.com/Mattdias312)
 [![GitHub Streak](https://streak-stats.herokuapp.com/?user=Mattdias312)](https://git.io/streak-stats)
 
-## 📞 Contact Me
+## 📞 Contato
 
-Feel free to reach out! You can contact me via:
+Sinta-se à vontade para entrar em contato! Você pode me encontrar via:
 - Email: matheusf.dias12@gmail.com
 - LinkedIn: [Mattdias312 LinkedIn Profile](https://www.linkedin.com/in/matheus-fernandes-dias-b8a803262/)
 
-Let's connect and collaborate on exciting projects together! 🚀
-
----
-
-By integrating visuals like badges, stats, and project links, this dynamic GitHub profile README provides an insight into Matheus's active involvement and skills in web development. It showcases a blend of creativity, professionalism, and engagement, inviting others to discover and collaborate within the vibrant GitHub community.
+Vamos nos conectar e colaborar em projetos empolgantes! 🚀
