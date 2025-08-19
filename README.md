@@ -17,7 +17,7 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub! Sou Matheus, um desenvolvedor apai
 ## 🌟 Most Starred Repository
 
 Dê uma olhada no meu projeto mais estrelado no GitHub!
-[Mattdias312 Repository](https://github.com/mdoisp/FoodClubServer)
+[Food Club](https://github.com/mdoisp/FoodClubServer)
 
 ## 📊 Estatísticas do GitHub
 
