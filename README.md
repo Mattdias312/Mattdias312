@@ -30,4 +30,4 @@ Sinta-se à vontade para entrar em contato! Você pode me encontrar via:
 - Email: matheusf.dias12@gmail.com
 - LinkedIn: [Mattdias312 LinkedIn Profile](https://www.linkedin.com/in/matheus-fernandes-dias-b8a803262/)
 
-Vamos nos conectar e colaborar em projetos empolgantes! 🚀
+Vamos nos conectar e colaborar em projetos! 🚀
