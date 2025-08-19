@@ -39,7 +39,7 @@ Check out my most starred project on GitHub!
 
 Feel free to reach out! You can contact me via:
 - Email: matheusf.dias12@gmail.com
-- LinkedIn: [Mattdias312 LinkedIn Profile]([https://www.linkedin.com/in/mattdias312](https://www.linkedin.com/in/matheus-fernandes-dias-b8a803262/))
+- LinkedIn: [Mattdias312 LinkedIn Profile](https://www.linkedin.com/in/matheus-fernandes-dias-b8a803262/)
 
 Let's connect and collaborate on exciting projects together! 🚀
 
