@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/forks/Mattdias312/Mattdias312?style=social)](https://github.com/Mattdias312)
 [![GitHub followers](https://img.shields.io/github/stars/Mattdias312/Mattdias312?style=social)](https://github.com/Mattdias312)
 
-Hey there! 👋 Welcome to my GitHub profile! I'm Mattdias312, a passionate developer and active member of the GitHub community. With a diverse range of projects and a focus on web development technologies, I strive to continuously learn and improve my coding skills. Let's dive deep into my GitHub journey!
+Hey there! 👋 Welcome to my GitHub profile! I'm Matheus, a passionate developer and active member of the GitHub community. With a diverse range of projects and a focus on web development technologies, I strive to continuously learn and improve my coding skills. Let's dive deep into my GitHub journey!
 
 ## 🔧 Skills
 
@@ -38,11 +38,11 @@ Check out my most starred project on GitHub!
 ## 📞 Contact Me
 
 Feel free to reach out! You can contact me via:
-- Email: mattdias312@gmail.com
-- LinkedIn: [Mattdias312 LinkedIn Profile](https://www.linkedin.com/in/mattdias312)
+- Email: matheusf.dias12@gmail.com
+- LinkedIn: [Mattdias312 LinkedIn Profile]([https://www.linkedin.com/in/mattdias312](https://www.linkedin.com/in/matheus-fernandes-dias-b8a803262/))
 
 Let's connect and collaborate on exciting projects together! 🚀
 
 ---
 
-By integrating visuals like badges, stats, and project links, this dynamic GitHub profile README provides an insight into Mattdias312's active involvement and skills in web development. It showcases a blend of creativity, professionalism, and engagement, inviting others to discover and collaborate within the vibrant GitHub community.
+By integrating visuals like badges, stats, and project links, this dynamic GitHub profile README provides an insight into Matheus's active involvement and skills in web development. It showcases a blend of creativity, professionalism, and engagement, inviting others to discover and collaborate within the vibrant GitHub community.
