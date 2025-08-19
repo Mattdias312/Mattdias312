@@ -24,7 +24,6 @@ Dê uma olhada no meu projeto mais estrelado no GitHub!
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mattdias312)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattdias312)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mattdias312)](https://github.com/Mattdias312)
-[![GitHub Streak](https://streak-stats.herokuapp.com/?user=Mattdias312)](https://git.io/streak-stats)
 
 ## 📞 Contato
 
